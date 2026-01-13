@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "00a67ef6-423b-4082-88ec-57c60f3c87c5",
+      "name": "测试任务",
+      "path": "D:\\ue\\Windows\\ChangShan_LS_UE_1018\\Saved\\Logs\\cef\\cef.2025-09-22.log",
+      "mode": "retention",
+      "retentionDays": 3,
+      "filePattern": ".log",
+      "cronSpec": "0 2 * * *",
+      "enabled": false
+    }
+  ]
+}
